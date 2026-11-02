@@ -2736,6 +2736,11 @@
         "tofu": "opentofu",
         "tofu.json": "opentofu",
         "org": "org",
+        ".oxfmtrc.json": "oxfmt",
+        ".oxfmtrc.jsonc": "oxfmt",
+        ".oxlintrc.json": "oxfmt",
+        "oxfmt.config.ts": "oxfmt",
+        "oxlint.config.ts": "oxfmt",
         "package.json": "package-json",
         ".nvmrc": "package-json",
         ".esmrc": "package-json",
@@ -2901,9 +2906,12 @@
         "remix.config.ts": "remix",
         ".renovaterc": "renovate",
         ".renovaterc.json": "renovate",
+        ".renovaterc.json5": "renovate",
+        ".renovaterc.jsonc": "renovate",
         "renovate-config.json": "renovate",
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
+        "renovate.jsonc": "renovate",
         "res": "rescript",
         "rmd": "rmd",
         "rbxl": "roblox",
@@ -4238,6 +4246,9 @@
         },
         "org": {
           "path": "./icons/latte/org.svg"
+        },
+        "oxfmt": {
+          "path": "./icons/latte/oxfmt.svg"
         },
         "package-json": {
           "path": "./icons/latte/package-json.svg"
@@ -7460,6 +7471,11 @@
         "tofu": "opentofu",
         "tofu.json": "opentofu",
         "org": "org",
+        ".oxfmtrc.json": "oxfmt",
+        ".oxfmtrc.jsonc": "oxfmt",
+        ".oxlintrc.json": "oxfmt",
+        "oxfmt.config.ts": "oxfmt",
+        "oxlint.config.ts": "oxfmt",
         "package.json": "package-json",
         ".nvmrc": "package-json",
         ".esmrc": "package-json",
@@ -7625,9 +7641,12 @@
         "remix.config.ts": "remix",
         ".renovaterc": "renovate",
         ".renovaterc.json": "renovate",
+        ".renovaterc.json5": "renovate",
+        ".renovaterc.jsonc": "renovate",
         "renovate-config.json": "renovate",
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
+        "renovate.jsonc": "renovate",
         "res": "rescript",
         "rmd": "rmd",
         "rbxl": "roblox",
@@ -8962,6 +8981,9 @@
         },
         "org": {
           "path": "./icons/frappe/org.svg"
+        },
+        "oxfmt": {
+          "path": "./icons/frappe/oxfmt.svg"
         },
         "package-json": {
           "path": "./icons/frappe/package-json.svg"
@@ -12184,6 +12206,11 @@
         "tofu": "opentofu",
         "tofu.json": "opentofu",
         "org": "org",
+        ".oxfmtrc.json": "oxfmt",
+        ".oxfmtrc.jsonc": "oxfmt",
+        ".oxlintrc.json": "oxfmt",
+        "oxfmt.config.ts": "oxfmt",
+        "oxlint.config.ts": "oxfmt",
         "package.json": "package-json",
         ".nvmrc": "package-json",
         ".esmrc": "package-json",
@@ -12349,9 +12376,12 @@
         "remix.config.ts": "remix",
         ".renovaterc": "renovate",
         ".renovaterc.json": "renovate",
+        ".renovaterc.json5": "renovate",
+        ".renovaterc.jsonc": "renovate",
         "renovate-config.json": "renovate",
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
+        "renovate.jsonc": "renovate",
         "res": "rescript",
         "rmd": "rmd",
         "rbxl": "roblox",
@@ -13686,6 +13716,9 @@
         },
         "org": {
           "path": "./icons/macchiato/org.svg"
+        },
+        "oxfmt": {
+          "path": "./icons/macchiato/oxfmt.svg"
         },
         "package-json": {
           "path": "./icons/macchiato/package-json.svg"
@@ -16908,6 +16941,11 @@
         "tofu": "opentofu",
         "tofu.json": "opentofu",
         "org": "org",
+        ".oxfmtrc.json": "oxfmt",
+        ".oxfmtrc.jsonc": "oxfmt",
+        ".oxlintrc.json": "oxfmt",
+        "oxfmt.config.ts": "oxfmt",
+        "oxlint.config.ts": "oxfmt",
         "package.json": "package-json",
         ".nvmrc": "package-json",
         ".esmrc": "package-json",
@@ -17073,9 +17111,12 @@
         "remix.config.ts": "remix",
         ".renovaterc": "renovate",
         ".renovaterc.json": "renovate",
+        ".renovaterc.json5": "renovate",
+        ".renovaterc.jsonc": "renovate",
         "renovate-config.json": "renovate",
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
+        "renovate.jsonc": "renovate",
         "res": "rescript",
         "rmd": "rmd",
         "rbxl": "roblox",
@@ -18410,6 +18451,9 @@
         },
         "org": {
           "path": "./icons/mocha/org.svg"
+        },
+        "oxfmt": {
+          "path": "./icons/mocha/oxfmt.svg"
         },
         "package-json": {
           "path": "./icons/mocha/package-json.svg"
@@ -21632,6 +21676,11 @@
         "tofu": "opentofu",
         "tofu.json": "opentofu",
         "org": "org",
+        ".oxfmtrc.json": "oxfmt",
+        ".oxfmtrc.jsonc": "oxfmt",
+        ".oxlintrc.json": "oxfmt",
+        "oxfmt.config.ts": "oxfmt",
+        "oxlint.config.ts": "oxfmt",
         "package.json": "package-json",
         ".nvmrc": "package-json",
         ".esmrc": "package-json",
@@ -21797,9 +21846,12 @@
         "remix.config.ts": "remix",
         ".renovaterc": "renovate",
         ".renovaterc.json": "renovate",
+        ".renovaterc.json5": "renovate",
+        ".renovaterc.jsonc": "renovate",
         "renovate-config.json": "renovate",
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
+        "renovate.jsonc": "renovate",
         "res": "rescript",
         "rmd": "rmd",
         "rbxl": "roblox",
@@ -23134,6 +23186,9 @@
         },
         "org": {
           "path": "./icons/latte-monochrome/org.svg"
+        },
+        "oxfmt": {
+          "path": "./icons/latte-monochrome/oxfmt.svg"
         },
         "package-json": {
           "path": "./icons/latte-monochrome/package-json.svg"
@@ -26356,6 +26411,11 @@
         "tofu": "opentofu",
         "tofu.json": "opentofu",
         "org": "org",
+        ".oxfmtrc.json": "oxfmt",
+        ".oxfmtrc.jsonc": "oxfmt",
+        ".oxlintrc.json": "oxfmt",
+        "oxfmt.config.ts": "oxfmt",
+        "oxlint.config.ts": "oxfmt",
         "package.json": "package-json",
         ".nvmrc": "package-json",
         ".esmrc": "package-json",
@@ -26521,9 +26581,12 @@
         "remix.config.ts": "remix",
         ".renovaterc": "renovate",
         ".renovaterc.json": "renovate",
+        ".renovaterc.json5": "renovate",
+        ".renovaterc.jsonc": "renovate",
         "renovate-config.json": "renovate",
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
+        "renovate.jsonc": "renovate",
         "res": "rescript",
         "rmd": "rmd",
         "rbxl": "roblox",
@@ -27858,6 +27921,9 @@
         },
         "org": {
           "path": "./icons/frappe-monochrome/org.svg"
+        },
+        "oxfmt": {
+          "path": "./icons/frappe-monochrome/oxfmt.svg"
         },
         "package-json": {
           "path": "./icons/frappe-monochrome/package-json.svg"
@@ -31080,6 +31146,11 @@
         "tofu": "opentofu",
         "tofu.json": "opentofu",
         "org": "org",
+        ".oxfmtrc.json": "oxfmt",
+        ".oxfmtrc.jsonc": "oxfmt",
+        ".oxlintrc.json": "oxfmt",
+        "oxfmt.config.ts": "oxfmt",
+        "oxlint.config.ts": "oxfmt",
         "package.json": "package-json",
         ".nvmrc": "package-json",
         ".esmrc": "package-json",
@@ -31245,9 +31316,12 @@
         "remix.config.ts": "remix",
         ".renovaterc": "renovate",
         ".renovaterc.json": "renovate",
+        ".renovaterc.json5": "renovate",
+        ".renovaterc.jsonc": "renovate",
         "renovate-config.json": "renovate",
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
+        "renovate.jsonc": "renovate",
         "res": "rescript",
         "rmd": "rmd",
         "rbxl": "roblox",
@@ -32582,6 +32656,9 @@
         },
         "org": {
           "path": "./icons/macchiato-monochrome/org.svg"
+        },
+        "oxfmt": {
+          "path": "./icons/macchiato-monochrome/oxfmt.svg"
         },
         "package-json": {
           "path": "./icons/macchiato-monochrome/package-json.svg"
@@ -35804,6 +35881,11 @@
         "tofu": "opentofu",
         "tofu.json": "opentofu",
         "org": "org",
+        ".oxfmtrc.json": "oxfmt",
+        ".oxfmtrc.jsonc": "oxfmt",
+        ".oxlintrc.json": "oxfmt",
+        "oxfmt.config.ts": "oxfmt",
+        "oxlint.config.ts": "oxfmt",
         "package.json": "package-json",
         ".nvmrc": "package-json",
         ".esmrc": "package-json",
@@ -35969,9 +36051,12 @@
         "remix.config.ts": "remix",
         ".renovaterc": "renovate",
         ".renovaterc.json": "renovate",
+        ".renovaterc.json5": "renovate",
+        ".renovaterc.jsonc": "renovate",
         "renovate-config.json": "renovate",
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
+        "renovate.jsonc": "renovate",
         "res": "rescript",
         "rmd": "rmd",
         "rbxl": "roblox",
@@ -37306,6 +37391,9 @@
         },
         "org": {
           "path": "./icons/mocha-monochrome/org.svg"
+        },
+        "oxfmt": {
+          "path": "./icons/mocha-monochrome/oxfmt.svg"
         },
         "package-json": {
           "path": "./icons/mocha-monochrome/package-json.svg"
