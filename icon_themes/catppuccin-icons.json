@@ -1881,6 +1881,10 @@
         "bower.json": "bower",
         "browserslist": "browserslist",
         ".browserslistrc": "browserslist",
+        "buf.yaml": "buf",
+        "buf.gen.yaml": "buf",
+        "buf.work.yaml": "buf",
+        "buf.lock": "buf",
         "bun.lock": "bun-lock",
         "bun.lockb": "bun-lock",
         "bunfig.toml": "bun",
@@ -3649,6 +3653,9 @@
         },
         "browserslist": {
           "path": "./icons/latte/browserslist.svg"
+        },
+        "buf": {
+          "path": "./icons/latte/buf.svg"
         },
         "bun-lock": {
           "path": "./icons/latte/bun-lock.svg"
@@ -6625,6 +6632,10 @@
         "bower.json": "bower",
         "browserslist": "browserslist",
         ".browserslistrc": "browserslist",
+        "buf.yaml": "buf",
+        "buf.gen.yaml": "buf",
+        "buf.work.yaml": "buf",
+        "buf.lock": "buf",
         "bun.lock": "bun-lock",
         "bun.lockb": "bun-lock",
         "bunfig.toml": "bun",
@@ -8393,6 +8404,9 @@
         },
         "browserslist": {
           "path": "./icons/frappe/browserslist.svg"
+        },
+        "buf": {
+          "path": "./icons/frappe/buf.svg"
         },
         "bun-lock": {
           "path": "./icons/frappe/bun-lock.svg"
@@ -11369,6 +11383,10 @@
         "bower.json": "bower",
         "browserslist": "browserslist",
         ".browserslistrc": "browserslist",
+        "buf.yaml": "buf",
+        "buf.gen.yaml": "buf",
+        "buf.work.yaml": "buf",
+        "buf.lock": "buf",
         "bun.lock": "bun-lock",
         "bun.lockb": "bun-lock",
         "bunfig.toml": "bun",
@@ -13137,6 +13155,9 @@
         },
         "browserslist": {
           "path": "./icons/macchiato/browserslist.svg"
+        },
+        "buf": {
+          "path": "./icons/macchiato/buf.svg"
         },
         "bun-lock": {
           "path": "./icons/macchiato/bun-lock.svg"
@@ -16113,6 +16134,10 @@
         "bower.json": "bower",
         "browserslist": "browserslist",
         ".browserslistrc": "browserslist",
+        "buf.yaml": "buf",
+        "buf.gen.yaml": "buf",
+        "buf.work.yaml": "buf",
+        "buf.lock": "buf",
         "bun.lock": "bun-lock",
         "bun.lockb": "bun-lock",
         "bunfig.toml": "bun",
@@ -17881,6 +17906,9 @@
         },
         "browserslist": {
           "path": "./icons/mocha/browserslist.svg"
+        },
+        "buf": {
+          "path": "./icons/mocha/buf.svg"
         },
         "bun-lock": {
           "path": "./icons/mocha/bun-lock.svg"
@@ -20857,6 +20885,10 @@
         "bower.json": "bower",
         "browserslist": "browserslist",
         ".browserslistrc": "browserslist",
+        "buf.yaml": "buf",
+        "buf.gen.yaml": "buf",
+        "buf.work.yaml": "buf",
+        "buf.lock": "buf",
         "bun.lock": "bun-lock",
         "bun.lockb": "bun-lock",
         "bunfig.toml": "bun",
@@ -22625,6 +22657,9 @@
         },
         "browserslist": {
           "path": "./icons/latte-monochrome/browserslist.svg"
+        },
+        "buf": {
+          "path": "./icons/latte-monochrome/buf.svg"
         },
         "bun-lock": {
           "path": "./icons/latte-monochrome/bun-lock.svg"
@@ -25601,6 +25636,10 @@
         "bower.json": "bower",
         "browserslist": "browserslist",
         ".browserslistrc": "browserslist",
+        "buf.yaml": "buf",
+        "buf.gen.yaml": "buf",
+        "buf.work.yaml": "buf",
+        "buf.lock": "buf",
         "bun.lock": "bun-lock",
         "bun.lockb": "bun-lock",
         "bunfig.toml": "bun",
@@ -27369,6 +27408,9 @@
         },
         "browserslist": {
           "path": "./icons/frappe-monochrome/browserslist.svg"
+        },
+        "buf": {
+          "path": "./icons/frappe-monochrome/buf.svg"
         },
         "bun-lock": {
           "path": "./icons/frappe-monochrome/bun-lock.svg"
@@ -30345,6 +30387,10 @@
         "bower.json": "bower",
         "browserslist": "browserslist",
         ".browserslistrc": "browserslist",
+        "buf.yaml": "buf",
+        "buf.gen.yaml": "buf",
+        "buf.work.yaml": "buf",
+        "buf.lock": "buf",
         "bun.lock": "bun-lock",
         "bun.lockb": "bun-lock",
         "bunfig.toml": "bun",
@@ -32113,6 +32159,9 @@
         },
         "browserslist": {
           "path": "./icons/macchiato-monochrome/browserslist.svg"
+        },
+        "buf": {
+          "path": "./icons/macchiato-monochrome/buf.svg"
         },
         "bun-lock": {
           "path": "./icons/macchiato-monochrome/bun-lock.svg"
@@ -35089,6 +35138,10 @@
         "bower.json": "bower",
         "browserslist": "browserslist",
         ".browserslistrc": "browserslist",
+        "buf.yaml": "buf",
+        "buf.gen.yaml": "buf",
+        "buf.work.yaml": "buf",
+        "buf.lock": "buf",
         "bun.lock": "bun-lock",
         "bun.lockb": "bun-lock",
         "bunfig.toml": "bun",
@@ -36857,6 +36910,9 @@
         },
         "browserslist": {
           "path": "./icons/mocha-monochrome/browserslist.svg"
+        },
+        "buf": {
+          "path": "./icons/mocha-monochrome/buf.svg"
         },
         "bun-lock": {
           "path": "./icons/mocha-monochrome/bun-lock.svg"
