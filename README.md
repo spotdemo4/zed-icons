@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is a fork of [catppuccin/zed-icons](https://github.com/catppuccin/zed-icons). Its `src/vscode-icons` submodule points at [spotdemo4/vscode-icons](https://github.com/spotdemo4/vscode-icons) instead of [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons), and `icons/` and `icon_themes/` are rebuilt from it. See that fork's README for the changes it carries.
+
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
