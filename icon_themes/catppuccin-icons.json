@@ -3036,6 +3036,8 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        ".sqlfluffignore": "sqlfluff-ignore",
+        ".sqlfluff": "sqlfluff",
         "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
@@ -4480,6 +4482,12 @@
         },
         "spwn": {
           "path": "./icons/latte/spwn.svg"
+        },
+        "sqlfluff-ignore": {
+          "path": "./icons/latte/sqlfluff-ignore.svg"
+        },
+        "sqlfluff": {
+          "path": "./icons/latte/sqlfluff.svg"
         },
         "squirrel": {
           "path": "./icons/latte/squirrel.svg"
@@ -7771,6 +7779,8 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        ".sqlfluffignore": "sqlfluff-ignore",
+        ".sqlfluff": "sqlfluff",
         "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
@@ -9215,6 +9225,12 @@
         },
         "spwn": {
           "path": "./icons/frappe/spwn.svg"
+        },
+        "sqlfluff-ignore": {
+          "path": "./icons/frappe/sqlfluff-ignore.svg"
+        },
+        "sqlfluff": {
+          "path": "./icons/frappe/sqlfluff.svg"
         },
         "squirrel": {
           "path": "./icons/frappe/squirrel.svg"
@@ -12506,6 +12522,8 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        ".sqlfluffignore": "sqlfluff-ignore",
+        ".sqlfluff": "sqlfluff",
         "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
@@ -13950,6 +13968,12 @@
         },
         "spwn": {
           "path": "./icons/macchiato/spwn.svg"
+        },
+        "sqlfluff-ignore": {
+          "path": "./icons/macchiato/sqlfluff-ignore.svg"
+        },
+        "sqlfluff": {
+          "path": "./icons/macchiato/sqlfluff.svg"
         },
         "squirrel": {
           "path": "./icons/macchiato/squirrel.svg"
@@ -17241,6 +17265,8 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        ".sqlfluffignore": "sqlfluff-ignore",
+        ".sqlfluff": "sqlfluff",
         "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
@@ -18685,6 +18711,12 @@
         },
         "spwn": {
           "path": "./icons/mocha/spwn.svg"
+        },
+        "sqlfluff-ignore": {
+          "path": "./icons/mocha/sqlfluff-ignore.svg"
+        },
+        "sqlfluff": {
+          "path": "./icons/mocha/sqlfluff.svg"
         },
         "squirrel": {
           "path": "./icons/mocha/squirrel.svg"
@@ -21976,6 +22008,8 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        ".sqlfluffignore": "sqlfluff-ignore",
+        ".sqlfluff": "sqlfluff",
         "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
@@ -23420,6 +23454,12 @@
         },
         "spwn": {
           "path": "./icons/latte-monochrome/spwn.svg"
+        },
+        "sqlfluff-ignore": {
+          "path": "./icons/latte-monochrome/sqlfluff-ignore.svg"
+        },
+        "sqlfluff": {
+          "path": "./icons/latte-monochrome/sqlfluff.svg"
         },
         "squirrel": {
           "path": "./icons/latte-monochrome/squirrel.svg"
@@ -26711,6 +26751,8 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        ".sqlfluffignore": "sqlfluff-ignore",
+        ".sqlfluff": "sqlfluff",
         "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
@@ -28155,6 +28197,12 @@
         },
         "spwn": {
           "path": "./icons/frappe-monochrome/spwn.svg"
+        },
+        "sqlfluff-ignore": {
+          "path": "./icons/frappe-monochrome/sqlfluff-ignore.svg"
+        },
+        "sqlfluff": {
+          "path": "./icons/frappe-monochrome/sqlfluff.svg"
         },
         "squirrel": {
           "path": "./icons/frappe-monochrome/squirrel.svg"
@@ -31446,6 +31494,8 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        ".sqlfluffignore": "sqlfluff-ignore",
+        ".sqlfluff": "sqlfluff",
         "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
@@ -32890,6 +32940,12 @@
         },
         "spwn": {
           "path": "./icons/macchiato-monochrome/spwn.svg"
+        },
+        "sqlfluff-ignore": {
+          "path": "./icons/macchiato-monochrome/sqlfluff-ignore.svg"
+        },
+        "sqlfluff": {
+          "path": "./icons/macchiato-monochrome/sqlfluff.svg"
         },
         "squirrel": {
           "path": "./icons/macchiato-monochrome/squirrel.svg"
@@ -36181,6 +36237,8 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        ".sqlfluffignore": "sqlfluff-ignore",
+        ".sqlfluff": "sqlfluff",
         "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
@@ -37625,6 +37683,12 @@
         },
         "spwn": {
           "path": "./icons/mocha-monochrome/spwn.svg"
+        },
+        "sqlfluff-ignore": {
+          "path": "./icons/mocha-monochrome/sqlfluff-ignore.svg"
+        },
+        "sqlfluff": {
+          "path": "./icons/mocha-monochrome/sqlfluff.svg"
         },
         "squirrel": {
           "path": "./icons/mocha-monochrome/squirrel.svg"
